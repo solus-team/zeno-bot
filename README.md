@@ -19,9 +19,8 @@ Git: https://git-scm.org
     npm start
     ```
  <h3>Đã hoàn thành. Hãy tận hưởng bot!</h3>
--
-# Cảm ơn đã sử dụng bot
-Đây là toàn bộ vốn kiến thức của mình về nodejs.
+
+Đây là toàn bộ vốn kiến thức của tôi về nodejs.
 Nếu bạn chỉnh sửa cấu trúc file bot, bạn chỉ cần thêm thông tin tác giả
 tại một góc nhỏ nào đó, tôi sẽ rất biết ơn bạn.
 Mọi trường hợp lỗi xin vùi lòng báo lại cho tôi tại:
