@@ -1,8 +1,8 @@
-//This Bot Made By JustGonDev. Do Not Copy This Bot.
-//Copyright © 2022 JustGonDev. All rights reserved.
+//This Bot Made By Sou. Do Not Copy This Bot.
+//Copyright © 2022 Sou. All rights reserved.
 //Version: 1.0.0
-//Author: JustGonDev
-//Author URL: https://github.com/JustGonDev
+//Author: Sou
+//Author URL: https://github.com/HieuNe1703
 
 //Require Package
 const fs = require('fs');
@@ -94,7 +94,7 @@ function load(file, pluginInfo){
                     func: pluginInfo.noPrefix
                 }:"";
             }
-        console.log("Đã Load Thành Công Commands : "+pluginInfo.name+" "+pluginInfo.version+" bởi "+pluginInfo.author)
+        console.log("Đã Load Thành Công Commands : "+pluginInfo.name+" "+pluginInfo.version)
     //}
     /*catch(err){
         console.error("Không thể load command \""+file+"\" với lỗi: "+err)
