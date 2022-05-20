@@ -1,4 +1,6 @@
 # Solus-Bot
+## THÔNG BÁO KHẨN CẤP
+Tình hình là repo này từ nay sẽ không bao giờ có một bản cập nhật nào nữa. Yên tâm đi, tôi sẽ không bỏ đi dự án tôi ấp ủ hơn 1 năm trời đâu, chỉ là tôi muốn đổi mới và thế là từ nay Solus Bot sẽ được cập nhật và hoạt động tại repo [này](https://github.com/solus-team/solus-bot)
 # Yêu cầu
 Node.JS: https://nodejs.org/
 Git: https://git-scm.org
