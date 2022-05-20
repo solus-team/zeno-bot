@@ -1,6 +1,4 @@
 # Solus-Bot
-## THÔNG BÁO
-Bản solus bot này đã bị khai tử. Những bản update mới và về sau sẽ nằm ở một repo khác. Nếu bạn vẫn nhớ và muốn sử dụng bản này thì mình vẫn để lại cho các bạn, toàn bộ ver mới sẽ ở [link này](https://github.com/solus-team/solus-bot)!
 # Yêu cầu
 Node.JS: https://nodejs.org/
 Git: https://git-scm.org
