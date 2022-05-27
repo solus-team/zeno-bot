@@ -1,6 +1,6 @@
 # Solus-Bot
 ## THÔNG BÁO KHẨN CẤP
-Tôi bỏ cuộc, tôi sẽ không bao giớ viết thêm một bản cập nhật nào cho con bot này nữa. Tôi sẽ bắt đầu chuyển dần sang làm một thứ khác, cố thể là viết module cho MiraiBot, có thể là viết DiscordBot. Miễn là tôi có ý tưởng và có hứng. Xin cảm ơn tất cả mọi người
+Tôi bỏ cuộc, tôi sẽ không bao giờ viết thêm một bản cập nhật nào cho con bot này nữa. Tôi sẽ bắt đầu chuyển dần sang làm một thứ khác, có thể là viết module cho MiraiBot,có thể là viết plugin cho kb2abot, có thể là viết DiscordBot. Miễn là tôi có ý tưởng và có hứng. Xin cảm ơn tất cả mọi người
 # Yêu cầu
 Node.JS: https://nodejs.org/
 Git: https://git-scm.org
