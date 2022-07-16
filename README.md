@@ -3,7 +3,7 @@
 # Yêu cầu
 Node.JS: https://nodejs.org/
 Git: https://git-scm.org
-# Setup vào chạy bot
+# Setup và chạy bot
 - Step 1 : Chạy lênh dưới đây để cài đặt các package
   ```sh
   npm install
